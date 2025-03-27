@@ -52,4 +52,4 @@ def display_summary(url):
     print("="*50 + "\n")
 
 # Run the script
-display_summary("https://dinajpur.polytech.gov.bd/site/page/0e0b86a4-8e61-4989-bf87-9ca6f377ba47/-")
+display_summary("https://aiman-portfolio-mu.vercel.app/")
